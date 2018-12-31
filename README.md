@@ -1,2 +1,3 @@
 # test_pub
-git config --global user.email
+gcloud source repos clone github_rajat-kumarbal_test_5Fpub --project=rmaas-ci-cd-1
+
