@@ -1,2 +1,2 @@
 # test_pub
-test
+git config --global user.email
